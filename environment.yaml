@@ -1,0 +1,11 @@
+name: boston_housing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pyscaffold
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
