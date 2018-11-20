@@ -28,5 +28,5 @@ This project has been set up using PyScaffold 3.1. For details and usage
 information on PyScaffold see https://pyscaffold.org/.
 
 
-.. _Working efficiently with JupyterLab Notebooks: https://florianwilhelm.info/working_efficiently_with_jupyter_lab.html
+.. _Working efficiently with JupyterLab Notebooks: https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/
 .. _JupyterLab: https://jupyterlab.readthedocs.io/
